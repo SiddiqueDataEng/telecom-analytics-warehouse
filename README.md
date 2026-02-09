@@ -4,8 +4,8 @@
 Process large-scale CDR (Call Detail Records) data for telecom analytics using Hive and Spark SQL.
 
 ## Technologies 
-- Apache Hive 2.3
-- Apache Spark SQL 2.4
+- Apache Hive 
+- Apache Spark SQL
 - HDFS
 - Impala
 - Tableau
